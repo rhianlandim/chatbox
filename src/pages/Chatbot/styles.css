@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(255, 255, 255);
+    padding: 0%;
+    margin: 0%;
+    clear: both;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecalho {
+    background-color: rgb(255, 255, 255);
+    height: 55px;
+    box-shadow: 0px 5px 5px 0px #d6d6d6;
+    width: 100%;
+}
+
+.structure {
+    background-color: rgb(255, 255, 255);
+}
+
+.sendArea {
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.cabecalho img {
+    margin: 0%;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 7px;
+    left: 90px;
+    border-radius: 30px;
+}
+
+.sendArea button {
+    background: none;
+    border: none;
+    position: relative;
+    bottom: -8px;
+    left: 5px;
+
+}
+
+.sendArea input {
+    border: none;
+    width: 80%;
+    box-shadow: 0px -1px 5px 2px #d6d6d6;
+    height: 22px;
+}
+
+.pi {
+   position: relative;
+   margin: 0px;
+   bottom: 35px;
+   left: 140px;
+   color: rgb(0, 0, 0);
+}
+
+.pii {
+    position: relative;
+    margin-top: 3px;
+    bottom: 35px;
+    left: 140px;
+    font-size: 70%;
+    color: rgb(251, 106, 130);
+ }
+
